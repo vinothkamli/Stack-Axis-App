@@ -1,0 +1,1 @@
+/Users/technotackle/StockAxis/android/app/build/intermediates/cxx/Debug/6v50495j/obj/armeabi-v7a

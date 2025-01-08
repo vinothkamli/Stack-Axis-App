@@ -1,0 +1,1 @@
+/Users/technotackle/Desktop/StockAxis/android/app/build/intermediates/cxx/Debug/60351t2u/obj/x86_64
